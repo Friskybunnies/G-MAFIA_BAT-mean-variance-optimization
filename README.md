@@ -1,6 +1,8 @@
 # G-MAFIA_BAT-mean-variance-optimization
 
-
+![Screen Shot 2021-07-29 at 9 10 51 PM](https://user-images.githubusercontent.com/38734806/127588430-f00b6484-e80c-410d-84fe-fb25733b39a1.png)
+![Screen Shot 2021-07-29 at 9 20 55 PM](https://user-images.githubusercontent.com/38734806/127588432-28469fd0-9fe5-480b-8188-6e5db5236bc8.png)
+![Screen Shot 2021-07-29 at 9 31 59 PM](https://user-images.githubusercontent.com/38734806/127588434-9f4b53a3-e274-499e-8919-23a3bbe18692.png)
 
 G-MAFIA BAT is an acronym for what are some of the world’s most powerful companies: Google, Microsoft, Amazon, Facebook, IBM, Apple, Baidu, Alibaba, and Tencent.
 Over the course of the COVID-19 pandemic, more than one received attention for their growing power and profits.
